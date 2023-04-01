@@ -1,0 +1,2 @@
+### I have not very well documented the lycanthrope's log problem because it's quite huge and it did not catch my interest.
+#### Howevver I must say that there are a lot of looping techniques that can come handly and I am gonna surely refer to it soon.
