@@ -23,6 +23,6 @@ function sum(arrayOfNumbers){
     return sum
 }
 // ! range will return [1,2,3,4,5,6,7,8,9,10]
-// ! sum will return 55
+// ! sum will take the list of numbers and  return 55
 console.log(sum(range(1,100))) // ! this will 5050
 console.log(sum(range(1,8))) // ! this will 36
