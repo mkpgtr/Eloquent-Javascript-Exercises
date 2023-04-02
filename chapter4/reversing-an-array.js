@@ -14,4 +14,4 @@ const arrayToReverse = [87,90,49,103,4023]
 
 const reversedArray = reverseArray(arrayToReverse)
 
-console.log(reversedArray)
+console.log(reversedArray) 
